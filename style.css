@@ -1,0 +1,17 @@
+#text{
+	background-position: center;
+	background-size: 70vh;
+	line-height: 20px;
+	background: url("https://images.ctfassets.net/uaddx06iwzdz/fcUQhWJ8ixEl4uQDSTYB7/0716735361f8823036d96477e18f6969/lamborghini-huracan-sto-l-01.jpg");
+	-webkit-background-clip: text;
+	background-attachment: fixed;
+	background-clip: text;
+	background-repeat: no-repeat;
+	-webkit-text-fill-color: rgba(255, 255, 255, 0);
+	width: 1100px;
+	height: 500px;
+}
+body{
+	background: black;
+	overflow: hidden;
+}
